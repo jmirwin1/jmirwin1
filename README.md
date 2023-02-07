@@ -1,7 +1,6 @@
-### Hi there 👋
-My name is James Michael Irwin, an IT Professional
+Hi there 👋 
+My name is James Michael Irwin,an <https://www.linkedin.com/in/james-michael-irwin-294391b4/> IT Professional
 
-<!--
 **jmirwin1/jmirwin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
