@@ -1,4 +1,4 @@
-<h1>Hi there, my name is James Michael Irwin, an <a href="https://www.linkedin.com/in/james-michael-irwin-294391b4/"> IT Professional</a>
+<h1>Hi there! My name is James Michael Irwin, an <a href="https://www.linkedin.com/in/james-michael-irwin-294391b4/"> IT Professional</a>
   
   <h2>Informatin Technology Projects:</h2>
 
